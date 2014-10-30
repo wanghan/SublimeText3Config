@@ -3,6 +3,7 @@
 	[
 		"AngularJS",
 		"Autoprefixer",
+		"HTML-CSS-JS Prettify",
 		"PowerShell"
 	]
 }
