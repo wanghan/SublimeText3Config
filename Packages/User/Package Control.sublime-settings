@@ -6,6 +6,7 @@
 		"Emmet",
 		"GitGutter",
 		"HTML-CSS-JS Prettify",
-		"PowerShell"
+		"PowerShell",
+		"Python PEP8 Autoformat"
 	]
 }
