@@ -4,9 +4,9 @@
 		"AngularJS",
 		"Autoprefixer",
 		"Emmet",
-		"GitGutter",
 		"HTML-CSS-JS Prettify",
 		"PowerShell",
+		"Python Auto-Complete",
 		"Python PEP8 Autoformat"
 	]
 }
